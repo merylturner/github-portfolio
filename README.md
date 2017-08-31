@@ -7,11 +7,14 @@ I am a Full Stack Javascript Developer with an emphasis in front-end development
 ## Projects
 * Jubilant Disco
     * Description here
-    * [visit link](www.madebymeryl.com)
+    * [website](https://www.madebymeryl.com)
+    * [repository](https://www.github.com/merylturner/)
 * Peer Politics
     * Description here
-    * [visit link](www.madebymeryl.com)
+    * [website](https://www.madebymeryl.com)
+    * [repository](https://www.github.com/merylturner/)
 * Party Logic
     * Description here
-    * [visit link](www.madebymeryl.com)
+    * [website](https://www.madebymeryl.com)
+    * [repository](https://www.github.com/merylturner/)
 
