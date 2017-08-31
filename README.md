@@ -15,8 +15,8 @@ I am a Full Stack Javascript Developer + [Graphic Designer](https://www.madebyme
     * A simple logic puzzle built in React based on the game **Oh Hi**.
     <!-- * [Website](https://www.madebymeryl.com) -->
     * [Repository](https://github.com/merylturner/logic-puzzle)
-* **Tutorial Game**
+<!-- * **Tutorial Game**
     * Description here
     * [Website](https://jchurchman.github.io/teamrocketman/)
-    * [Repository](https://github.com/merylturner/teamrocketman)
+    * [Repository](https://github.com/merylturner/teamrocketman) -->
 
