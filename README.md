@@ -6,7 +6,9 @@ I am a Full Stack Javascript Developer + [Graphic Designer](https://www.madebyme
 * **Gold Star**
     * Full Stack JavaScript flashcard application for teachers and students. Teachers can create flashcard sets for all of their classes for students to study. Built with React, Redux, NodeJS and MongoDB. 
     * [Website](https://gold-star.herokuapp.com/)
-    * Repositories: [Client Side](https://github.com/GoldStarPDX/GoldStar) [Server Side](https://github.com/GoldStarPDX/GoldStarServer)
+    * Repositories: 
+      * [Client Side](https://github.com/GoldStarPDX/GoldStar) 
+      * [Server Side](https://github.com/GoldStarPDX/GoldStarServer)
 * **Jubilant Disco**
     * Back end project matching users together with a compatibility algorithm using their top 10 favorite albums. It accounts for genre, artist, and album matches, as well as where the albums are ranked in their list. It uses an MLab-hosted MongoDB via Mongoose, and NodeJS' Express package, as well as other NPM resources (see package.json for full list of dependencies).
     <!-- * [Website](http://jubilant-disco.herokuapp.com/) -->
