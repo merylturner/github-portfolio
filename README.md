@@ -1,6 +1,6 @@
 # Hey! I'm Meryl.
 
-I am a Full Stack Javascript Developer + [Graphic Designer](https://www.madebymeryl.com) with an emphasis in front-end development. I want to bridge the gap between Designers and Developers to create innovative products and engaging user experiences.
+I am a Full Stack JavaScript Developer + [Graphic Designer](https://www.madebymeryl.com) with an emphasis in front-end development. I want to bridge the gap between Designers and Developers to create innovative products and engaging user experiences.
 
 ## Projects
 * **Gold Star**
@@ -19,7 +19,7 @@ I am a Full Stack Javascript Developer + [Graphic Designer](https://www.madebyme
     * [Repository](https://github.com/merylturner/Peer-Politics)
 * **Party Logic**
     * A simple logic puzzle built in React based on the game **Oh Hi**.
-    <!-- * [Website](https://www.madebymeryl.com) -->
+    * [Website](http://logic-party.herokuapp.com/)
     * [Repository](https://github.com/merylturner/logic-puzzle)
 <!-- * **Tutorial Game**
     * Description here
